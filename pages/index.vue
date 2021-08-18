@@ -1,5 +1,5 @@
 <template>
-  <Tutorial/>
+  <h1 class="">トップページ</h1>
 </template>
 
 <script>
