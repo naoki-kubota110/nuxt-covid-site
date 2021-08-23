@@ -1,5 +1,5 @@
 <template>
-  <h1 class="">top page</h1>
+  <h1 class="">Top Page</h1>
 </template>
 
 <script>

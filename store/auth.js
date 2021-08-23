@@ -41,7 +41,6 @@ export const actions = {
         console.log(err)
       }
     }
-    console.log("servei init")
     commit("setToken",token)
   },
 }
